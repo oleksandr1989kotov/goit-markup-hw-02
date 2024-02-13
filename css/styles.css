@@ -15,7 +15,7 @@ ul, ol {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;}
@@ -39,8 +39,10 @@ font-weight: 500;
 
 }
 
-.adress {font-family: "Roboto", sans-serif;
-font-weight: 400;
+.adress {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -48,7 +50,7 @@ font-weight: 400;
 }
 
 .adress-link {
-    font-style: normal;
+        font-style: normal;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -107,7 +109,7 @@ background: #2e2f42;
 
         .our-team-name {font-weight: 700;
             font-size: 36px;
-            line-height: 1.11111;
+            line-height: 1.11;
             letter-spacing: 0.02em;
             text-transform: capitalize;
             text-align: center;
@@ -137,7 +139,7 @@ background: #2e2f42;
         .portfolio-name {
             font-weight: 700;
                 font-size: 36px;
-                line-height: 1.11111;
+                line-height: 1.11;
                 letter-spacing: 0.02em;
                 text-transform: capitalize;
                 text-align: center;
@@ -177,9 +179,10 @@ background: #2e2f42;
 
 }
 .footer-logo-studio {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
