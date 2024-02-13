@@ -70,6 +70,7 @@ background: #2e2f42;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
+        text-align: center;
         color: #fff;
 }
 
@@ -120,6 +121,7 @@ background: #2e2f42;
             line-height: 1.11;
             letter-spacing: 0.02em;
             text-transform: capitalize;
+            text-align: center;
             color: #2e2f42;}
     
         .team-picture {box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
@@ -147,6 +149,7 @@ background: #2e2f42;
                 line-height: 1.11;
                 letter-spacing: 0.02em;
                 text-transform: capitalize;
+                text-align: center;
                 color: #2e2f42;
         }
     
