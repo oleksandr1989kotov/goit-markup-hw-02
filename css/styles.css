@@ -108,16 +108,14 @@ background: #2e2f42;
     color: #434455;}
     /*---end of benefits-section---*/
 
+    
+    
     /*staff section*/
 
     .staff-section {
         background-color: #F4F4FD;
-
     }
-    .staff-section-list {
-        background-color: #FFFFFF;
-    }
-
+    
         .our-team-name {font-weight: 700;
             font-size: 36px;
             line-height: 1.11;
@@ -144,6 +142,15 @@ background: #2e2f42;
     /*---end of staff-section---*/
 
     /*portfolio section*/
+
+        .portfolio-section {
+            background-color: #F4F4FD;
+    
+        }
+    
+        .portfolio-section-list {
+            background-color: #FFFFFF;
+        }
 
         .portfolio-name {
             font-weight: 700;
