@@ -17,7 +17,7 @@ ul, ol {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase; /*!!!*/
+    text-transform: uppercase;
     color: #4d5ae5;}
 
 .logo-studio {
@@ -34,9 +34,9 @@ font-weight: 500;
 }
 
 .nav-link:hover,
-.nav-link:focus {
-    color: #404bbf
-
+.nav-link:focus,
+.nav-link:active {
+    color: #404bbf;
 }
 
 .adress-info {
@@ -60,6 +60,7 @@ font-weight: 500;
 .adress-link:focus {
     color: #404bbf;
 }
+/*  1st-section */
 
 .title-section {
 background: #2e2f42;
