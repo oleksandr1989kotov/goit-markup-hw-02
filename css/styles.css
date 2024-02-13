@@ -115,7 +115,7 @@ background: #2e2f42;
     .staff-section {
         background-color: #F4F4FD;
     }
-    
+
         .our-team-name {font-weight: 700;
             font-size: 36px;
             line-height: 1.11;
@@ -123,6 +123,10 @@ background: #2e2f42;
             text-transform: capitalize;
             text-align: center;
             color: #2e2f42;}
+
+       .team-picture-list {
+        background-color: #FFFFFF;
+       }     
     
         .team-picture {box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
             background: #fff;}
