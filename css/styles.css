@@ -80,7 +80,7 @@ background: #2e2f42;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #ffffff;
-        
+
 }
 .title-button:hover,
 .title-button:focus {
@@ -107,6 +107,14 @@ background: #2e2f42;
     /*---end of benefits-section---*/
 
     /*staff section*/
+
+    .staff-section {
+        background-color: #F4F4FD;
+
+    }
+    .staff-section-list {
+        background-color: #FFFFFF;
+    }
 
         .our-team-name {font-weight: 700;
             font-size: 36px;
